@@ -1,0 +1,149 @@
+[
+    {
+        "_id": 1,
+        "title": "Wood Table",
+        "oldPrice": "150",
+        "price":100,
+        "description": "Coffee table with storage from wood.",
+        "image":"https://i.postimg.cc/X7kN7PZC/table.jpg"
+        
+    },
+    {
+        "_id": 2,
+        "title": "Garden set",
+        "oldPrice": "500",
+        "price": 350,
+        "description": "Garden furniture metal and marble set 2 chair's and table.",
+        "image": "https://i.postimg.cc/YS6BbG1m/garden-furniture.jpg"
+    },
+    {
+        "_id": 3,
+        "title": "Bed",       
+        "oldPrice": "999",
+        "price": 600,
+        "description": "Handmade bed with storage.",        
+        "image": "https://i.postimg.cc/MT4kG7wN/bed.jpg"
+        
+    },
+    {
+        "_id": 4,
+        "title": "Coffee table",
+        "oldPrice": "350",
+        "price": 200,
+        "description": "Coffee tables metal with marble",
+        "image": "https://i.postimg.cc/XJxJ1DwF/coffe-table.jpg"
+        
+    },
+    {
+        "_id": 5,
+        "title": "Shelving",
+        "oldPrice": "799",
+        "price": 599,
+        "description": "Shelves for companies",
+        "image":"https://i.postimg.cc/sg6C8d83/shelve.jpg"
+
+    },
+    {
+        "_id": 6,
+        "title": "bed",
+      
+        "oldPrice": "999",
+        "price": 600,
+        "description": "Handmade bed with storage.",
+      
+        "image": "https://i.postimg.cc/LXMYbbn6/bed1.jpg"
+       
+
+    },
+    {
+        "_id": 7,
+        "title":"bed",
+        "oldPrice": "999",
+        "price":600,
+        "description": "Handmade bed with storage.",
+        "image":"https://i.postimg.cc/PJkTzgVT/bed2.jpg"
+        
+    },
+    {
+        "_id": 8,
+        "title": "Coffee Table",
+        "oldPrice": "350",
+        "price":200,
+        "description": "Coffee tables metal with marble",
+        "image":"https://i.postimg.cc/sXrNn3z6/coffee-table1.jpg"
+        
+    },
+    {
+        "_id": 9,
+        "title": "Garden set",
+        "oldPrice": "500",
+        "price":350,
+        "description": "Garden furniture metal and marble set 2 chair's and table.",
+        "image":"https://i.postimg.cc/RFpwWTg7/garden-set1.jpg"
+        
+    },
+    {
+        "_id": 10,
+        "title": "Wood Table",
+        "oldPrice": "150",
+        "price":100,
+        "description": "Coffee table with storage from wood.",
+        "image":"https://i.postimg.cc/L5BYzBTQ/table1.jpg"
+        
+    },
+    {
+        "_id": 11,
+        "title": "Shelving",
+        "oldPrice": "799",
+        "price": 599,
+        "description": "Shelves for companies",
+        "image":"https://i.postimg.cc/VkHSBNqw/shelve1.jpg"
+        
+    },
+    {
+        "_id": 12,
+        "title": "Kitchen shelves",
+        "oldPrice": "149",
+        "price": 100,
+        "description": "Kitchen shelves metal and marble",
+        "image":"https://i.postimg.cc/Ss4mW0vq/kitchen-shelves1.jpg"
+        
+    },
+    {
+        "_id": 13,
+        "title": "Mramor table",
+        "oldPrice": "499",
+        "price": 350,
+        "description": "Mramor table",
+        "image":"https://i.postimg.cc/qRWS82RK/mramor-table.jpg"
+        
+    },
+    {
+        "_id": 14,
+        "title": "Shelving",
+        "oldPrice": "799",
+        "price": 599,
+        "description": "Shelves for companies",
+        "image":"https://i.postimg.cc/PNnGk1nH/shelve2.jpg"
+        
+    },
+    {
+        "_id": 15,
+        "title": "Garden bench",
+        "oldPrice": "149",
+        "price": 100,
+        "description": "Garden bench",
+        "image":"https://i.postimg.cc/1X967jf1/garden-bench.jpg"
+        
+    },
+    {
+        "_id": 16,
+        "title": "Wood Table",
+        "oldPrice": "150",
+        "price":100,
+        "description": "Coffee table with storage from wood.",
+        "image":"https://i.postimg.cc/90d20Lp0/table2.jpg"
+        
+    }
+
+]
