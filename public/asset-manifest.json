@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.518c5937.css",
+    "main.js": "/static/js/main.c1ebeb1a.js",
+    "static/media/FacebookLogo.jpg": "/static/media/FacebookLogo.09d07d2452193e72c5e1.jpg",
+    "static/media/garden_furniture.jpeg": "/static/media/garden_furniture.c72c742df782c60a86ea.jpeg",
+    "static/media/shelve.jpeg": "/static/media/shelve.442170351d15e5c692d1.jpeg",
+    "static/media/Logo.png": "/static/media/Logo.03b6cdbe09019603ccfc.png",
+    "static/media/bed.jpeg": "/static/media/bed.abc1cfe1c35379d81ae4.jpeg",
+    "static/media/instagram QR code.jpeg": "/static/media/instagram QR code.f9e3e7256dfe7d4fd1b5.jpeg",
+    "static/media/cartImage.jpg": "/static/media/cartImage.7df5dbde875da0206ca5.jpg",
+    "static/media/table.jpeg": "/static/media/table.c20bd71b84bcb05b84c1.jpeg",
+    "static/media/paymentLogo.jpeg": "/static/media/paymentLogo.195f43f7520caf8058cd.jpeg",
+    "static/media/googleLogo.png": "/static/media/googleLogo.960c670a7a8d952eba35.png",
+    "index.html": "/index.html",
+    "main.518c5937.css.map": "/static/css/main.518c5937.css.map",
+    "main.c1ebeb1a.js.map": "/static/js/main.c1ebeb1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.518c5937.css",
+    "static/js/main.c1ebeb1a.js"
+  ]
+}
